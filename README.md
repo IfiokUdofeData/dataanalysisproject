@@ -9,12 +9,12 @@ This project involves analyzing customer data for a subscription service to iden
 
 ### 1. Excel
 - **Analyze customer data using pivot tables** to find subscription patterns.
-![Logo](/sub%20by%20rev.JPG)
+<img src="/images/sub by rev.JPG" alt="Logo" width="400"/>
 - **Calculate the average subscription duration** and identify the most popular subscription types.
-<img src="/month of sub.JPG" alt="Logo" width="300"/>
+<img src="/images/month of sub.JPG" alt="Logo" width="300"/>
 
 - **Create any other interesting reports** to further analyze customer data.
-<img src="/sub,cus,rev.JPG" alt="Logo" width="400"/>
+<img src="/images/sub,cus,rev.JPG" alt="Logo" width="400"/>
 
 ### 2. SQL
 
